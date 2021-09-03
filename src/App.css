@@ -141,9 +141,9 @@ input[type='number'] {
   position: absolute;
   top: 50%;
   left: 0;
-  /* transform: translate(-100%, -50%);
+  transform: translate(-100%, -50%);
   opacity: 0;
-  transition: opacity 0.3s ease; */
+  transition: opacity 0.3s ease;
 }
 
 .list li:hover .delete-btn {
